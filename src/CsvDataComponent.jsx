@@ -42,7 +42,7 @@ function  CsvDataComponent() {
 
   return (
     <div>
-      <h2>Industry Data</h2>
+      <h2>Loaded CSV Data</h2>
       <table>
         <thead>
           <tr>
